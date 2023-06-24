@@ -1,0 +1,9 @@
+# Jetbrain
+.idea
+.iml
+
+# VSCode
+.vscode
+
+# Miscelleneous
+.env
